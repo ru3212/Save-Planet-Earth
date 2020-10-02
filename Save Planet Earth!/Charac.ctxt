@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Charac
+comment1.params=applet
+comment1.target=Charac(processing.core.PApplet)
+comment2.params=xx\ yy
+comment2.target=void\ setCoord(float,\ float)
+comment3.params=
+comment3.target=float\ isX()
+comment4.params=
+comment4.target=float\ isY()
+comment5.params=
+comment5.target=void\ draw()
+comment6.params=w
+comment6.target=void\ checkWall(Walls[])
+comment7.params=item
+comment7.target=boolean\ checkBin(java.lang.String)
+numComments=8

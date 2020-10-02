@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BlueBin
+comment1.params=applet\ xx\ yy\ ww\ hh
+comment1.target=BlueBin(processing.core.PApplet,\ float,\ float,\ float,\ float)
+comment2.params=
+comment2.target=void\ draw()
+numComments=3
